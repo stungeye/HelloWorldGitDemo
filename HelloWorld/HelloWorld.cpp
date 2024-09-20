@@ -6,6 +6,10 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    // For loop to print stungeye 12 times:
+	for (int i = 0; i < 12; i++) {
+		std::cout << "stungeye\n";
+	}
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
